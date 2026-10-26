@@ -10,6 +10,7 @@
 
 > **⚠️ Commercial & Civilian Application Statement**  
 > *This architectural suite and all associated simulation engines are exclusively engineered for **civilian and commercial space operations** (such as commercial Earth observation, global broadband constellations, and environmental telemetry SmallSats). This technology operates strictly outside any military scope, defense integration, or weaponized applications.*
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/ac4cc16b-e462-4628-bfef-fcf7a4870f0f" />
 
 ---
 
