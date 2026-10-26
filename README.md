@@ -1,4 +1,4 @@
-# GEONMI-MEMS Zero-Heap VLEO
+# GEONMI-MEMS-Zero-Heap-VLEO-The-Conqueror-9
 > Advanced Multi-Layer Physics, Stress-Mitigation Geometry, and Integrated Solar-Skin LEO Simulation Suite for Commercial SmallSat Constellations.
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary%20--%20All%20Rights%20Reserved-red.svg)](https://github.com/kadritalal38-cell)
